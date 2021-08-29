@@ -1,5 +1,7 @@
 # 2021-Weather-Big-data-Contest
 
+![image](https://user-images.githubusercontent.com/52397912/131255816-af0aa4a3-9c53-494d-a8ea-d79e9e429711.png)
+
 ## 1. 프로젝트 소개
 -------------------------------------------------------------------------------
 ### 1.1 참여대회
